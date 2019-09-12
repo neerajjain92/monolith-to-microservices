@@ -1,4 +1,4 @@
-# monolith-to-microservices
+# Monolith To Microservices
 This repository will transition a monolithic application and decompose it to microservices using Spring Cloud Gateway
 
 ### Tag:  stage1
