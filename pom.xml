@@ -16,6 +16,8 @@
         <module>gateway</module>
         <module>ui</module>
         <module>eureka-server</module>
+        <module>hello</module>
+        <module>fortune</module>
     </modules>
 
 </project>
